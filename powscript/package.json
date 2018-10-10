@@ -1,0 +1,34 @@
+{
+  "name": "powscript",
+  "version": "1.1.17",
+  "description": "bash dialect transpiler in bash: painless shellscript / indentbased / coffeescript for shellscript / bash for hipsters",
+  "main": "powscript",
+  "directories": {
+    "test": "test"
+  },
+  "bin":{
+    "powscript":"powscript"
+  },
+  "scripts": {
+    "test": "./.tools/runtests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://coderofsalvation@github.com/coderofsalvation/powscript.git"
+  },
+  "keywords": [
+    "bash",
+    "shell",
+    "coffeescript",
+    "functional",
+    "transpiler",
+    "sh",
+    "unix"
+  ],
+  "author": "coder of salvation (Leon van Kammen)",
+  "license": "BSD-2-CLAUSE",
+  "bugs": {
+    "url": "https://github.com/coderofsalvation/powscript/issues"
+  },
+  "homepage": "https://github.com/coderofsalvation/powscript#readme"
+}
