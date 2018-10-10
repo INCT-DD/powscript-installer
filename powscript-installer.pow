@@ -1,0 +1,4 @@
+#!/usr/bin/env powscript
+
+sudo install --backup --compare ./powscript/powscript /usr/local/bin/
+echo powscript v. $(powscript -v) sucefully installed.
